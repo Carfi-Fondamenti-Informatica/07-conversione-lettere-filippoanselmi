@@ -1,1 +1,1 @@
-bool funzione (char);
+bool funzione (char &x);
