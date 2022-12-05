@@ -3,9 +3,9 @@
 
 int main(){
    char n=0; cin >> n;
-    if (tecci(n)==true) {
+    if (funzione(n)==true) {
     cout << n;
-    } else if (tecci(n)==false) {
+    } else if (funzione(n)==false) {
         cout << "errore";
     }
   return 0;
