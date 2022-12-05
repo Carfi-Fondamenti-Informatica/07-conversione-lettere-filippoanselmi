@@ -1,5 +1,6 @@
 #include <iostream>
 #inlcude "lib.h"
+using namespace std;
 
 int main(){
    char n=0; cin >> n;
